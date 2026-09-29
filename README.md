@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-I am creating a rock, paper and scissors game using HTML, CSS and Javascript
+This is a rock, paper and scissors game developed using HTML, CSS and Javascript
